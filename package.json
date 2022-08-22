@@ -1,6 +1,6 @@
 {
   "name": "cm_addlongname",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "一个规范Git commit的包",
   "bin": "./src/index.js",
   "dependencies": {
