@@ -1,0 +1,17 @@
+{
+  "name": "cm_addlongname",
+  "version": "1.0.5",
+  "description": "一个规范Git commit的包",
+  "bin": "./src/index.js",
+  "dependencies": {
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
+    "cz-customizable": "^6.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
